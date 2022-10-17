@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div id="container">
+        <form action="doelbestand.php" method="post">
+            Voornaam:<input type="text" name="Vnaam" placeholder="Voornaam"/><br>
+            Achternaam:<input type="text" name="anaam"placeholder="Achternaam"/><br>
+            <input type="date" placeholder="Geboortedatum"/>
+            <input type="datetime-local"/>
+            <input type="time"/>
+            <input type="week"/>
+            <input type="month"/>
+            <input type="submit"/>
+        </form>
+        <input id="country" type="text" name="countrey" size="40" list="countries"/>
+        <datalist id="countries">
+            <option value="Austalia"></option>
+            <option value="Canada"></option>
+            <option value="Germany"></option>
+            <option value="France"></option>
+            <option value="United Kingdom"></option>
+            <option value="United States"></option>
+        </datalist>
+        <input type="number"/>
+        <input type="number" min="5" max="100" step="5" value="10"/>
+        <input type="email" required/>
+        <input type="file"/>
+        <input type="color"/>
+        <input type="range" min="1" max="10"/>
+    
+    </div>
+    
+</body>
+</html>
