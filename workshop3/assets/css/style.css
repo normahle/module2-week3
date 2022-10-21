@@ -1,0 +1,179 @@
+header{
+    background-color: aqua;
+    border: 1px solid black;
+}
+
+#logo{
+    margin-top: 20px;
+}
+
+h2{
+
+    font-size: 10px;
+    float: right;
+}
+
+#content{
+border: 1px solid black;
+}
+
+#contenttxt{
+    text-align: center;
+    position: relative; top: -40px;
+}
+
+#contenttxt2{
+    float: right;
+    position: relative; top: -95px;
+}
+
+#sidebar1{
+    width: 200px;
+    height: 750px;
+    float: left;
+    border: 1px solid black;
+}
+
+#sidebar2{
+    border: 3px solid black;
+    height: 100px;
+    width: 100px;
+    margin: auto;
+}
+
+#sidebar3{
+    border: 3px solid black;
+    height: 100px;
+    width: 100px;
+    margin: auto;
+    margin-top: 10px;
+
+}
+
+#sidebar4{
+    border: 3px solid black;
+    height: 100px;
+    width: 100px;
+    margin: auto;
+    margin-top: 10px;
+}
+
+#sidebar5{
+    border: 3px solid black;
+    height: 100px;
+    width: 100px;
+    margin: auto;
+    margin-top: 10px;
+}
+
+#sidebar6{
+    border: 3px solid black;
+    height: 100px;
+    width: 100px;
+    margin: auto;
+    margin-top: 10px;
+}
+
+#sidebar7{
+    border: 3px solid black;
+    height: 100px;
+    width: 100px;
+    margin: auto;
+    margin-top: 10px;
+}
+
+#products{
+    border: 1px solid black;
+    height: 700px;
+    margin-left: 300px;
+}
+
+#page{
+    float: right;
+    position: relative; top: -50px;
+}
+
+#card{
+    border: 1px solid black;
+    height: 200px;
+    width: 200px;
+    margin-top: 20px;
+}
+
+
+#card2{
+    border: 1px solid black;
+    height: 200px;
+    width: 200px;
+    float: right;
+    position: relative; top: -210px;left: -250px;
+}
+
+#card3{
+    border: 1px solid black;
+    height: 200px;
+    width: 200px;
+    float: right;
+    position: relative; top: -210px;left: -300px;
+
+}
+
+#card4{
+    border: 1px solid black;
+    height: 200px;
+    width: 200px;
+    float: right;
+    position: relative; top: -210px; left: -350px;
+    
+
+}
+
+#card5{
+    border: 1px solid black;
+    height: 200px;
+    width: 200px;
+}
+
+#card6{
+    border: 1px solid black;
+    height: 200px;
+    width: 200px;
+}
+
+#card7{
+    border: 1px solid black;
+    height: 200px;
+    width: 200px;
+}
+
+#card8{
+    border: 1px solid black;
+    height: 200px;
+    width: 200px;
+}
+
+#card9{
+    border: 1px solid black;
+    height: 200px;
+    width: 200px;
+}
+
+#card10{
+    border: 1px solid black;
+    height: 200px;
+    width: 200px;
+}
+
+#card11{
+    border: 1px solid black;
+    height: 200px;
+    width: 200px;
+}
+
+#card12{
+    border: 1px solid black;
+    height: 200px;
+    width: 200px;
+}
+
+
